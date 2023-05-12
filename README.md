@@ -1,2 +1,2 @@
 # Shopping-Website
-first trail on a full E-commerce website
+first attempt on a full E-commerce website
