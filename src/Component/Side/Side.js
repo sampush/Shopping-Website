@@ -6,7 +6,7 @@ import small3 from "../../Component/lommy3.png";
 
 function Side() {
   return (
-    <div>
+    <div className="top-pay2">
       <div className="small-bop">
         <img src={small} alt="" />
 

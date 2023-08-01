@@ -1,3 +1,7 @@
+.top-pay2{
+  border-top:1px solid black;
+   
+ }
 .small-bop{
   margin: 60px;
   display: flex;
@@ -77,3 +81,8 @@
   margin: 0px;
   justify-content: space-between;
 }
+
+.side-top1{
+  border-top:2px solid black;
+}
+

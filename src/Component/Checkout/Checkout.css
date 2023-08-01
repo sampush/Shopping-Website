@@ -1,38 +1,27 @@
 .top-pay{
-    border-top: 1px solid rgb(99, 99, 102);
-    margin-top: 40px;
-    border-right: 1px solid rgb(99, 99, 102);
-    width: 700px;
-  
+ border-top:1px solid black;
+ border-right:1px solid black; 
 }
 .paymet{
     display: flex;
-    gap: 40px;
+    justify-content: center;
+   gap: 40px;
     border: 1px solid black;
     width: 500px;
-    height: 100px;
-    justify-content: center;
-    align-items: center;
-
-    margin-top: 40px;
-    margin-left: 90px;
-
-   
+    margin: 60px;
+  
 }
 
 .pooop{
-    font-size: 60px;
-  
-    
+    font-size: 60px;  
 }
-.apple{
-    
+.apple{  
     background-color:#ffff;  
 }
 .bot-fill{
     width: 500px;
-    margin-left: 90px;
-    margin-top: 40px;
+    margin: 60px;
+    
 }
 
 .ship-meth{
@@ -46,7 +35,7 @@
 }
 .ship-split{
     display: flex;
-    gap: 80px;
+    justify-content: space-between;
     line-height: 0.7;
     
 }
